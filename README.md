@@ -1,5 +1,6 @@
 # COMP2019
 ## Digital-Logic-Design
+### 2021 Autumn 数字逻辑设计实验
 **calculator_hex**: 十六进制的计算器，支持加、减、乘、求商，求余，平方六种运算，且支持连续运算功能; <br />
 **sequence_detection**: 检测一个8位的二进制数中，是否存在“10010”的子序列的序列检测器; <br />
 **flowing_water_lights**: 流水灯; <br />
