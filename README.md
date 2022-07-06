@@ -1,6 +1,6 @@
 # COMP2019
 ## Digital-Logic-Design
-calculator_hex: 十六进制的计算器，支持加、减、乘、求商，求余，平方六种运算，且支持连续运算功能; <br \>
+calculator_hex: 十六进制的计算器，支持加、减、乘、求商，求余，平方六种运算，且支持连续运算功能; <br />
 decoder_38.v: 3-8译码器;
 flowing_water_lights: 流水灯;
 holiday_lights: 节日彩灯;
